@@ -5,3 +5,6 @@ What I want: use GitHub as some kind of version control of my test Unity 3D proj
 What would I do: update base Unity 3D project files to this repo, clone it and work on it, update it.
 
 If you read this: Hello there and have fun. You can comment, read and propose some things.
+
+UPDATE: it's seems like making Git and Unity best friends is the pain the ass. I'm thinking I won't try to do it, for now.
+CURRENTLY FROZEN.
